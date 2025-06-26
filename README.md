@@ -1,6 +1,6 @@
 <h1>Olá, esse é meu primeiro projeto responsivo</h1>
 <br>
-<h2>Projeto baseado nas aulas ensinadas na plataforma de estudos <a href="https://aulas.devclub.com.br/m/home">DevClub</a> </h2>
+<h2><a href="https://italodubal.github.io/primeiro-projeto-responsivo/" target="_blank">Projeto</a> baseado nas aulas ensinadas na plataforma de estudos <a href="https://aulas.devclub.com.br/m/home">DevClub</a> </h2>
 <br>
 <h3>Tecnologias utilizadas</h3>
 <br>
